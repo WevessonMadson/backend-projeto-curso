@@ -4,7 +4,7 @@
 
 API BACK-END PARA PERSISTIR DADOS DE PESSOAS NUM BANCO DE DADOS RELACIONAL, O SQLITE.
 
-> Repositório do FrontEnd, [🔗FRONTEND PARA ESTE PROJETO](https://www.instagram.com/eremgp/)
+> Repositório do FrontEnd, [🔗FRONTEND PARA ESTE PROJETO](https://github.com/WevessonMadson/frontend-projeto-curso)
 
 ## Como usar:
 
