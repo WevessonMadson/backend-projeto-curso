@@ -1,4 +1,4 @@
-# book-store
+# Backend Projeto Desafio do curso de Técnico em DS
 
 > Curso de Desenvolvimento de sistemas, [🔗ETE GINASIO PERNAMBUCANO](https://www.instagram.com/eremgp/)
 
