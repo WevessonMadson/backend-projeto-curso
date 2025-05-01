@@ -1,10 +1,10 @@
 # book-store
 
-> Curso de Desenvolvimento de sistemas, [🔗ETE GINASIO PERNAMBUCANO](https://www.instagram.com/eremgp/])
+> Curso de Desenvolvimento de sistemas, [🔗ETE GINASIO PERNAMBUCANO](https://www.instagram.com/eremgp/)
 
 API BACK-END PARA PERSISTIR DADOS DE PESSOAS NUM BANCO DE DADOS RELACIONAL, O SQLITE.
 
-> Repositório do FrontEnd, [🔗FRONTEND DESTE PROJETO]([https://www.instagram.com/eremgp/])
+> Repositório do FrontEnd, [🔗FRONTEND PARA ESTE PROJETO](https://www.instagram.com/eremgp/)
 
 ## Como usar:
 
